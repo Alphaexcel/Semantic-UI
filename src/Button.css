@@ -1,0 +1,6 @@
+.nav-bar {
+    box-sizing: border-box;
+    background-color: grey;
+    display: flex;
+    flex-direction: row-reverse;
+}
